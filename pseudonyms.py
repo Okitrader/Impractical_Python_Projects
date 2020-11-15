@@ -18,7 +18,7 @@ first = ('Baby Oil', 'Bad News', 'Big Burps', "Bill 'Beenie-Weenie'",
              'Snorki', 'Soupcan Sam', 'Spitzitout', 'Squids', 'Stinky',
              'Storyboard', 'Sweet Tea', 'TeeTee', 'Wheezy Joe',
              "Winston 'Jazz Hands'", 'Worms')
-
+#note 
 last = ('Appleyard', 'Bigmeat', 'Bloominshine', 'Boogerbottom',
             'Breedslovetrout', 'Butterbaugh', 'Clovenhoof', 'Clutterbuck',
             'Cocktoasten', 'Endicott', 'Fewhairs', 'Gooberdapple', 'Goodensmith',
@@ -48,4 +48,4 @@ while True:
         break
 
 input("\nPress Enter to exit.")
- 
+
